@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTestingRestSharp", "ApiTestingRestSharp\ApiTestingRestSharp.csproj", "{10607C7E-6A82-4C1A-BD91-819F9DC97131}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10607C7E-6A82-4C1A-BD91-819F9DC97131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10607C7E-6A82-4C1A-BD91-819F9DC97131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10607C7E-6A82-4C1A-BD91-819F9DC97131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10607C7E-6A82-4C1A-BD91-819F9DC97131}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D374F103-4C04-44C9-B00B-C8D47E6E61FE}
+	EndGlobalSection
+EndGlobal
